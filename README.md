@@ -1,10 +1,15 @@
-# Aroha Flow — Research OS
+# Aroha Flow — Research Mate
 
 **Aroha Flow** is a local-first research workspace for graduate students, researchers, and builders who want papers turned into **structured understanding**, not loose PDFs in a folder. It combines ingestion, AI-assisted analysis, a searchable archive, and **project workspaces** so reading, notes, and writing stay tied to the same sources.
 
 The app is a [Next.js](https://nextjs.org) 16 application (React 19) with a **SQLite** database via [Drizzle ORM](https://orm.drizzle.team), designed so you can work offline-capable on your machine and optionally grow toward cloud sync later.
 
 ---
+
+<img width="1666" height="979" alt="Screenshot 2026-05-03 at 07 58 07" src="https://github.com/user-attachments/assets/b48785f5-4fc4-4cbb-a61d-40c5f8554333" />
+<img width="1668" height="968" alt="Screenshot 2026-05-03 at 07 58 50" src="https://github.com/user-attachments/assets/c23ab59b-1522-46f9-a48a-549bec1772b1" />
+<img width="1642" height="959" alt="Screenshot 2026-05-03 at 07 59 27" src="https://github.com/user-attachments/assets/d335e8fa-5d11-45b3-9aab-077271320dee" />
+
 
 ## Why use it
 
