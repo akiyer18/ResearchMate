@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1773762466521,
+      "tag": "0000_giant_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1773765718461,
+      "tag": "0001_living_nextwave",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1773768000000,
+      "tag": "0002_scan_meta",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1773860000000,
+      "tag": "0003_workflow_upgrade",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1773865000000,
+      "tag": "0004_collections",
+      "breakpoints": true
+    }
+  ]
+}
