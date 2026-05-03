@@ -5,10 +5,9 @@
 The app is a [Next.js](https://nextjs.org) 16 application (React 19) with a **SQLite** database via [Drizzle ORM](https://orm.drizzle.team), designed so you can work offline-capable on your machine and optionally grow toward cloud sync later.
 
 ---
-
-<img width="1666" height="979" alt="Screenshot 2026-05-03 at 07 58 07" src="https://github.com/user-attachments/assets/b48785f5-4fc4-4cbb-a61d-40c5f8554333" />
-<img width="1668" height="968" alt="Screenshot 2026-05-03 at 07 58 50" src="https://github.com/user-attachments/assets/c23ab59b-1522-46f9-a48a-549bec1772b1" />
-<img width="1642" height="959" alt="Screenshot 2026-05-03 at 07 59 27" src="https://github.com/user-attachments/assets/d335e8fa-5d11-45b3-9aab-077271320dee" />
+<img width="1679" height="974" alt="Screenshot 2026-05-03 at 10 56 01" src="https://github.com/user-attachments/assets/f70a107f-3470-42cb-8425-f7465e779fdf" />
+<img width="1596" height="783" alt="Screenshot 2026-05-03 at 10 56 22" src="https://github.com/user-attachments/assets/bf9bd761-68bc-4071-a9a7-e0b4cf426bd9" />
+<img width="1665" height="896" alt="Screenshot 2026-05-03 at 10 56 41" src="https://github.com/user-attachments/assets/22280123-4e4a-4fd9-bb6f-533380b15087" />
 
 
 ## Why use it
